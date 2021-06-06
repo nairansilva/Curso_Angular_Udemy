@@ -1,0 +1,13 @@
+mat-card{
+  margin: 20px;
+}
+
+.horizontal-button{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.horizontal-botton button{
+  text-align: center;
+}
