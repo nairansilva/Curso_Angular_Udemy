@@ -1,0 +1,33 @@
+.myClassOne{
+  font-size: 10px;
+  color:black;
+  background-color: blueviolet;
+  padding: 5px;
+}
+
+.myClassTwo{
+  font-size: 12px;
+  color:green;
+  background-color: red;
+  padding: 5px;
+}
+.myClassTree{
+  font-size: 14px;
+  color:brown;
+  background-color: black;
+  padding: 5px;
+}
+.myClassFour{
+  font-size: 16px;
+  color:yellow;
+  background-color: pink;
+  padding: 5px;
+}
+
+mat-card{
+  margin: 40px;
+}
+
+mat-card-footer{
+  padding-left: 20px;
+}
